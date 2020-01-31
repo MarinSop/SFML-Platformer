@@ -1,0 +1,14 @@
+﻿  Game.cpp
+C:\Dev\Platformer\Game.cpp(15,20): warning C4018: '<': signed/unsigned mismatch
+C:\Dev\Platformer\Game.cpp(31,20): warning C4018: '<': signed/unsigned mismatch
+C:\Dev\Platformer\Game.cpp(44,21): warning C4018: '<': signed/unsigned mismatch
+C:\Dev\Platformer\Game.cpp(52,21): warning C4018: '<': signed/unsigned mismatch
+C:\Dev\Platformer\Game.cpp(94,21): warning C4018: '<': signed/unsigned mismatch
+C:\Dev\Platformer\Game.cpp(107,20): warning C4018: '<': signed/unsigned mismatch
+C:\Dev\Platformer\Game.cpp(113,20): warning C4018: '<': signed/unsigned mismatch
+C:\Dev\Platformer\Game.cpp(128,20): warning C4018: '<': signed/unsigned mismatch
+C:\Dev\Platformer\Game.cpp(134,20): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+C:\Dev\Platformer\main.cpp(44,5): warning C4065: switch statement contains 'default' but no 'case' labels
+  Generating Code...
+  Platformer.vcxproj -> C:\Dev\Platformer\Debug\Platformer.exe
